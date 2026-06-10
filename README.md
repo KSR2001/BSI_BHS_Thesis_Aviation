@@ -3,6 +3,7 @@
 This repository contains the Part 1 of the code and generated research artifacts for a master's thesis prototype on **Digital Twin and Machine-Learning-based ICS/OT Cybersecurity and Anomaly Detection in Airport Baggage Handling System**.
 
 Part 2 (Unity 3D Digital Twin Project Repository) of this Master's thesis can be found here : 
+https://github.com/KSR2001/BHS_THESIS_UNITY
 
 
 ## Demo Video
