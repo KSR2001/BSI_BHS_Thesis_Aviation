@@ -1,0 +1,13 @@
+true,pred,count
+normal,fdi,137
+stopped_conv,dos,61
+fdi,normal,29
+dos,normal,18
+stopped_conv,normal,13
+normal,spoof,12
+spoof,normal,11
+normal,dos,10
+spoof,fdi,9
+dos,fdi,4
+dos,stopped_conv,3
+normal,stopped_conv,2

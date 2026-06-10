@@ -1,0 +1,7 @@
+{
+  "recon_mse_threshold": 12.772032737731934,
+  "mode": "quantile_baseline",
+  "quantile": 0.999,
+  "n_val_normals": 541,
+  "note": "Threshold computed from validation NORMAL reconstruction errors (deployment-like baseline)."
+}

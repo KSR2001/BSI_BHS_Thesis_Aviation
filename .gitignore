@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
+config.local.*
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
