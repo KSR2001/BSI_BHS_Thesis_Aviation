@@ -39,8 +39,6 @@ The online part of the project streams SimPy events to a proxy, rebuilds rolling
 ## Repository Structure
 
 ```text
-.
-
 `-- Simpy_models/
     |-- bhs_sim_behavioral.py
     |-- 02_build_features_lstm.py
